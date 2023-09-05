@@ -1,0 +1,39 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "car",
+            "supercategory": "vehicle",
+            "keypoints": [],
+            "skeleton": []
+        },
+        {
+            "id": 2,
+            "name": "cyclist",
+            "supercategory": "vehicle"
+        },
+        {
+            "id": 3,
+            "name": "pedestrian"
+        }
+    ],
+    "images": [
+        {
+            "id": 1,
+            "license": 1,
+            "file_name": "0.jpg",
+            "height": 0,
+            "width": 0,
+            "date_captured": null
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1,
+            "image_id": 1,
+            "category_id": 1,
+            "bbox": [587.01, 173.33, 27.11, 26.79],
+            "area": 45969
+        }
+    ]
+}
