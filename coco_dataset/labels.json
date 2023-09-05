@@ -1,0 +1,119 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "car",
+      "supercategory": "later"
+    },
+    {
+      "id": 2,
+      "name": "cyclist",
+      "supercategory": "later"
+    },
+    {
+      "id": 3,
+      "name": "pedestrian",
+      "supercategory": "later"
+    },
+    {
+      "id": 4,
+      "name": "motorcycle",
+      "supercategory": "later"
+    },
+    {
+      "id": 5,
+      "name": "dog",
+      "supercategory": "later"
+    }
+  ],
+  "images": [
+    {
+      "id": 0,
+      "license": 1,
+      "file_name": "0.txt",
+      "height": 0,
+      "width": 0
+    },
+    {
+      "id": 1,
+      "license": 1,
+      "file_name": "1.txt",
+      "height": 0,
+      "width": 0
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 0,
+      "category_id": 1,
+      "bbox": [
+        587.01,
+        173.33,
+        27.110000000000014,
+        26.789999999999992
+      ],
+      "area": 726.2769000000002
+    },
+    {
+      "id": 2,
+      "image_id": 0,
+      "category_id": 2,
+      "bbox": [
+        665.45,
+        160.0,
+        52.479999999999905,
+        57.99000000000001
+      ],
+      "area": 3043.315199999995
+    },
+    {
+      "id": 3,
+      "image_id": 0,
+      "category_id": 3,
+      "bbox": [
+        423.17,
+        173.67,
+        10.0,
+        50.360000000000014
+      ],
+      "area": 503.60000000000014
+    },
+    {
+      "id": 4,
+      "image_id": 1,
+      "category_id": 4,
+      "bbox": [
+        587.01,
+        173.33,
+        27.110000000000014,
+        26.789999999999992
+      ],
+      "area": 726.2769000000002
+    },
+    {
+      "id": 5,
+      "image_id": 1,
+      "category_id": 3,
+      "bbox": [
+        423.17,
+        173.67,
+        10.0,
+        50.360000000000014
+      ],
+      "area": 503.60000000000014
+    },
+    {
+      "id": 6,
+      "image_id": 1,
+      "category_id": 5,
+      "bbox": [
+        423.17,
+        173.67,
+        10.0,
+        50.360000000000014
+      ],
+      "area": 503.60000000000014
+    }
+  ]
+}

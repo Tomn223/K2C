@@ -23,8 +23,7 @@
             "license": 1,
             "file_name": "0.jpg",
             "height": 0,
-            "width": 0,
-            "date_captured": null
+            "width": 0
         }
     ],
     "annotations": [
@@ -33,7 +32,7 @@
             "image_id": 1,
             "category_id": 1,
             "bbox": [587.01, 173.33, 27.11, 26.79],
-            "area": 45969
+            "area": 726.2769
         }
     ]
 }
